@@ -1,9 +1,9 @@
 pipeline{
     
     agent any 
-    tools {
-        maven Maven-3.1
-    }
+    // tools {
+    //     maven Maven-3.1
+    // }
     
     stages {
         
